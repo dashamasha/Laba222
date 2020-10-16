@@ -1,0 +1,27 @@
+main.pbi: D:\arm\inc\c\ycheck.h D:\arm\inc\c\errno.h \
+  D:\arm\inc\cpp\cerrno D:\arm\inc\cpp\system_error \
+  D:\arm\inc\c\time32.h D:\arm\inc\c\time.h D:\arm\inc\cpp\ctime \
+  D:\arm\inc\c\ctype.h D:\arm\inc\cpp\cctype D:\arm\inc\cpp\xlocinfo \
+  D:\arm\inc\cpp\typeinfo D:\arm\inc\c\xatomic.h D:\arm\inc\c\stdio.h \
+  D:\arm\inc\cpp\cstdio D:\arm\inc\cpp\iosfwd D:\arm\inc\cpp\utility \
+  D:\arm\inc\cpp\climits D:\arm\inc\cpp\xutility D:\arm\inc\cpp\new \
+  D:\arm\inc\c\wchar.h D:\arm\inc\cpp\cwchar D:\arm\inc\c\float.h \
+  D:\arm\inc\cpp\cfloat D:\arm\inc\cpp\limits D:\arm\inc\c\stdint.h \
+  D:\arm\inc\cpp\cstdint D:\arm\inc\cpp\xmemory0 D:\arm\inc\cpp\xstring \
+  D:\arm\inc\cpp\type_traits D:\arm\inc\cpp\xxexception \
+  D:\arm\inc\cpp\initializer_list D:\arm\inc\c\stddef.h \
+  D:\arm\inc\cpp\cstddef D:\arm\inc\cpp\xstddef D:\arm\inc\cpp\exception \
+  D:\arm\inc\cpp\stdexcept D:\arm\inc\c\wctype.h D:\arm\inc\cpp\cwctype \
+  D:\arm\inc\c\xlocale_lconv.h D:\arm\inc\c\xctype.h \
+  D:\arm\inc\c\locale.h D:\arm\inc\cpp\clocale \
+  D:\arm\inc\c\DLib_Product_string.h D:\arm\inc\c\string.h \
+  D:\arm\inc\cpp\cstring D:\arm\inc\cpp\xlocale D:\arm\inc\cpp\xiosbase \
+  D:\arm\inc\cpp\streambuf D:\arm\inc\c\DLib_Product_stdlib.h \
+  D:\arm\inc\c\ysizet.h D:\arm\inc\c\stdlib.h D:\arm\inc\cpp\cstdlib \
+  D:\arm\inc\cpp\xtr1common D:\arm\inc\c\xtgmath.h \
+  D:\arm\inc\c\DLib_float_setup.h D:\arm\inc\c\math.h \
+  D:\arm\inc\cpp\cmath D:\arm\inc\c\DLib_Product.h \
+  D:\arm\inc\c\DLib_Defaults.h D:\arm\inc\c\yvals.h \
+  D:\arm\inc\c\limits.h D:\arm\inc\cpp\xlocnum D:\arm\inc\cpp\ios \
+  D:\arm\inc\cpp\ostream D:\arm\inc\cpp\istream D:\arm\inc\cpp\iostream \
+  C:\Users\other\Desktop\laba2\main.cpp
